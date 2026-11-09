@@ -1,6 +1,6 @@
 cask "gf" do
-  version "0.1.3786"
-  sha256 "0596e59110f7537c93fb50c20784ad0a52dc244a15fb783384a5fcc1a219b1fe"
+  version "0.1.3789"
+  sha256 "a19085aa822af449f4744cff43e3cbdf798095adc377d45da66c11fde0c5dd90"
 
   url "https://github.com/gefuege/gf/releases/download/gf-v#{version}/gf-#{version}-aarch64-apple-darwin.dmg"
   name "gf"
